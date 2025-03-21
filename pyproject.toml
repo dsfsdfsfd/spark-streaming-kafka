@@ -1,0 +1,12 @@
+[project]
+name = "spark-streaming-kafka"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pydeequ==1.0.1",
+    "pyspark==3.5.0",
+    "setuptools>=77.0.3",
+    "synapseml>=1.0.10",
+]
